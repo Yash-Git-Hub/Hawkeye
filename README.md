@@ -1,4 +1,7 @@
 # HaWk Eye 🦅✨
+NOTE : this project came into being after hack ireland as invision and is continued on development there link : https://github.com/Invision-hackireland
+
+
 
 Welcome to HaWk Eye, your next-generation computer vision software for optimizing retail and warehouse operations! 📊🔍
 
